@@ -2,7 +2,7 @@ import streamlit as st
 
 # Page Config
 st.set_page_config(page_title="Analyst Job Application Form", page_icon="📈")
-
+st.write("aareeey google m apply kr reh")
 st.title("Analyst Job Application Form")
 
 with st.form("job_application_form"):
